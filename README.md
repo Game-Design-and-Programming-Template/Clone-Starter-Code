@@ -1,4 +1,9 @@
-# Clone-Starter-Code
+## 1: On GitHub fork the PlaygroundProjectStarter code
+
+* Log into your GitHub account.
+* Search for _playgroundprojectstarter_.
+* Select the repository.
+* Click on the `fork` in the upper right hand corner to make a copy in your GitHub account.
 
 ## Tell Git not to check SSL certificates
 
